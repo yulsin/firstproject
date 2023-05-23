@@ -1,2 +1,5 @@
-package PACKAGE_NAME;public class HelloItGirlsFirstProject {
+public class HelloItGirlsFirstProject {
+    public static void main(String[] args) {
+        System.out.println("Hello It Girls!");
+    }
 }
